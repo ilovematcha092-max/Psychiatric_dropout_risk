@@ -1,0 +1,11 @@
+streamlit>=1.35
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+joblib
+openpyxl
+python-docx
+scikit-learn>=1.0
